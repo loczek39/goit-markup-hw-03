@@ -13,6 +13,11 @@
     --White: #FFFFFF;
     --Dairy: #FCFCFC;
 }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 body
 {
     font-family: 'Roboto', sans-serif;
@@ -20,6 +25,7 @@ body
     background-color:#ffffff;
 
 }
+img{display: block;}
 .logo
 {
     font-family: "Raleway", sans-serif;
@@ -29,6 +35,7 @@ body
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--Iris);
+    margin-right: 76px ;
 }
 .logo:hover{color: var(--OCEAN)}
 .logo.link
@@ -193,6 +200,7 @@ color: var(--Slate);}
     font-size: 500;
     line-height: 1.5;
     font-family: "Roboto";
+    display:inline-flex
 }
 .fourth-section{
     background-color: #F4F4FD;
@@ -200,3 +208,11 @@ color: var(--Slate);}
 .card{
     background-color: var(--White);
 }
+.container{
+    width: 1158px;
+    margin: 0 auto;
+}
+.header{
+    border-bottom: 1px solid #e7e9fc;
+}
+.text{}
