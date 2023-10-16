@@ -34,6 +34,7 @@ body
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--Iris);
+    margin-right: 76px ;
 }
 .logo:hover{color: var(--OCEAN)}
 .logo.link
@@ -208,4 +209,9 @@ color: var(--Slate);}
 }
 .container{
     width: 1158px;
+    margin: 0 auto;
 }
+.header{
+    border-bottom: 1px solid #e7e9fc;
+}
+.text{}
