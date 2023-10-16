@@ -25,6 +25,7 @@ body
     background-color:#ffffff;
 
 }
+img{display: block;}
 .logo
 {
     font-family: "Raleway", sans-serif;
