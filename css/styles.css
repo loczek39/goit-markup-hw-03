@@ -124,6 +124,7 @@ max-width: 496px;}
     color: var(--NAVY-BLUE-modal);
     letter-spacing: 0.32px;
     display: flex;
+    align-items: center;
 }
 .nav:hover{
     color: var(--OCEAN);
@@ -213,6 +214,7 @@ color: var(--Slate);}
     font-family: "Roboto";
     display:flex;
     gap: 40px;
+
 }
 .fourth-section{
     background-color: #F4F4FD;
@@ -232,3 +234,15 @@ color: var(--Slate);}
 }
 .nav{}
 .second-section{padding: 120px 0;}
+.list-sec{
+    font-size: 500;
+    line-height: 1.5;
+    font-family: "Roboto";
+    display:flex;
+    gap: 24px;
+    
+
+}
+.list-second{width: calc((100%-72px)/4);
+    margin-left: 0px;
+}
