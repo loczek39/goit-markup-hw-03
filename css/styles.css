@@ -71,6 +71,7 @@ height: 56px;
 border: none;
 background-color: var(--Iris);
 border-radius: 4px;
+align-items: center;
 
 
 /* Button Text */
@@ -124,6 +125,7 @@ max-width: 496px;}
 .nav{
     color: var(--NAVY-BLUE-modal);
     letter-spacing: 0.32px;
+    display: flex;
 }
 .nav:hover{
     color: var(--OCEAN);
@@ -211,7 +213,8 @@ color: var(--Slate);}
     font-size: 500;
     line-height: 1.5;
     font-family: "Roboto";
-    display:inline-flex
+    display:flex;
+    gap: 40px;
 }
 .fourth-section{
     background-color: #F4F4FD;
