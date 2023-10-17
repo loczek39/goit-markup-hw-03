@@ -204,6 +204,8 @@ color: var(--Slate);}
     letter-spacing: 0.02em;
     color: var(--Navy-blue)}
 .link{text-decoration: none;
+
+   
 }
 .contact-list{
     font-style: normal;
@@ -214,6 +216,7 @@ color: var(--Slate);}
     font-family: "Roboto";
     display:flex;
     gap: 40px;
+    padding: 24px 0;
 
 }
 .fourth-section{
