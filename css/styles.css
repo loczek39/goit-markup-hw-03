@@ -101,7 +101,7 @@ padding: 188px 0 188px;
     letter-spacing: 1.12px;
 max-width: 496px;}
 .second-header
-{
+{visibility: hidden;
     text-align: center;
     font-size: 36px;
     font-family: Roboto;
