@@ -240,9 +240,7 @@ color: var(--Slate);}
     font-family: "Roboto";
     display:flex;
     gap: 24px;
-    
+    width: calc((100%-72px)/4);
 
 }
-.list-second{width: calc((100%-72px)/4);
-    margin-left: 0px;
-}
+
