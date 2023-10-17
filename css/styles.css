@@ -71,7 +71,7 @@ height: 56px;
 border: none;
 background-color: var(--Iris);
 border-radius: 4px;
-align-items: center;
+
 
 
 /* Button Text */
@@ -92,7 +92,7 @@ letter-spacing: 0.04em;
 .first-section{
 
 background: var(--NAVY-BLUE-modal);
-padding: 188px;
+padding: 188px 0 188px;
 }
 .first-header{color: var(--White);
     text-align: center;
