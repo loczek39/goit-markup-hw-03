@@ -232,10 +232,8 @@ color: var(--Slate);}
     line-height: 1.5;
     font-family: "Roboto";
     display: flex;
-    gap: 40px;
     padding: 24px, 0px;
     justify-content: center;
-    gap: 24px;
     margin-bottom: 72px;
     flex-wrap: wrap;
     column-gap: 24px;
@@ -293,6 +291,14 @@ color: var(--Slate);}
     padding-top: 96px;
     padding-bottom: 120px;
 
+}
+.list.portfolio-list{gap: 24px;}
+.container-header{display: flex;
+margin: 0px auto;}
+.div-portfolio{
+    padding: 32px, 16px;
+    border: 1px, solid, #E7E9FC;
+    border-top: none;
 }
 
 
