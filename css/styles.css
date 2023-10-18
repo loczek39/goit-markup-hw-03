@@ -120,6 +120,8 @@ max-width: 496px;}
     background-color: var(--Gray);
     color: var(--Cloud);
     line-height: 1.17;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 .nav.link{font-weight: 500;
     padding: 24px, 0px;
@@ -148,7 +150,8 @@ max-width: 496px;}
 .footer-paragraph
 {color: var(--Cloud);
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+max-width: 264px;}
 .list-paragraph {color: var(--Slate);
     font-family: inherit;
     font-size: 16px;
@@ -212,8 +215,8 @@ color: var(--Slate);}
     letter-spacing: 0.02em;
     color: var(--Navy-blue)}
 .link{text-decoration: none;
-
-   
+    display: inline-block;  
+    margin-bottom: 16px;
 }
 .contact-list{
     font-style: normal;
