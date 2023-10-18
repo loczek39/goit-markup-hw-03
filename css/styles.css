@@ -122,6 +122,7 @@ max-width: 496px;}
     line-height: 1.17;
 }
 .nav.link{font-weight: 500;
+    padding: 24px, 0px;
 }
 .nav{
     color: var(--NAVY-BLUE-modal);
