@@ -221,7 +221,7 @@ color: var(--Slate);}
     font-family: "Roboto";
     display: flex;
     gap: 40px;
-    padding: 24px solid;
+    padding: 24px, 0px;
 
 }
 .fourth-section{
