@@ -46,7 +46,6 @@ img{display: block;}
     line-height: 1.17;
     padding-top: 24px;
     padding-bottom: 24px;
-    
 
 }
 .link:hover
@@ -215,7 +214,7 @@ color: var(--Slate);}
     letter-spacing: 0.02em;
     color: var(--Navy-blue)}
 .link{text-decoration: none;
-    display: inline-block;  
+      
     margin-bottom: 16px;
 }
 .contact-list{
@@ -243,6 +242,7 @@ color: var(--Slate);}
     display: flex;
     padding-left: 15px;
     padding-right: 15px;
+    display: inline-block;
 }
 .header{
     border-bottom: 1px solid #e7e9fc;
