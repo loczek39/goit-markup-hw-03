@@ -225,6 +225,7 @@ color: var(--Slate);}
 }
 .fourth-section{
     background-color: #F4F4FD;
+    padding: 120px 0px;
 }
 .card{
     background-color: var(--White);
