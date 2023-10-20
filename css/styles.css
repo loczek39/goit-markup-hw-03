@@ -313,6 +313,15 @@ margin: 0px auto;}
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+.list-fourth{font-size: 500;
+    line-height: 1.5;
+    font-family: "Roboto";
+    display: flex;
+    justify-content: center;
+    margin-bottom: 72px;
+    column-gap: 24px;
+    row-gap: 48px;
+    gap: 24px;}
 
 
 
