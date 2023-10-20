@@ -124,7 +124,7 @@ max-width: 496px;}
     padding-bottom: 100px;
 }
 .nav.link{font-weight: 500;
-    padding: 24px, 0px;
+    gap: 40px;
 }
 .nav{
     color: var(--NAVY-BLUE-modal);
