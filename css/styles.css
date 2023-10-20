@@ -143,6 +143,7 @@ max-width: 496px;}
     letter-spacing: 0.02em;
     text-align: center;
     margin-bottom: 8px;
+    flex-basis: calc((100%-72px)/4);
 }
 .footer-paragraph
 {color: var(--Cloud);
