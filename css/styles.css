@@ -91,6 +91,7 @@ letter-spacing: 0.04em;
 
 background: var(--NAVY-BLUE-modal);
 padding: 188px 0 188px;
+
 }
 .first-header{color: var(--White);
     text-align: center;
@@ -252,10 +253,11 @@ color: var(--Slate);}
     margin: 0 auto;
    padding-left: 15px;
     padding-right: 15px;
-    display: inline-block;
+    display: flex;
 }
 .header{
     border-bottom: 1px solid #e7e9fc;
+    display: flex;
 }
 .nav{}
 .second-section{padding: 120px 0;}
