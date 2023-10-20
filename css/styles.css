@@ -43,11 +43,7 @@ img{display: block;}
 {
     list-style: none;
     text-decoration: none;
-    line-height: 1.17;
-    padding-top: 24px;
-    padding-bottom: 24px;
-
-}
+    line-height: 1.17;}
 .link:hover
 {
     color: var(--Iris);}
@@ -233,7 +229,7 @@ color: var(--Slate);}
     line-height: 1.5;
     font-family: "Roboto";
     display: flex;
-    padding: 24px, 0px;
+    padding: 24px;
     justify-content: center;
     margin-bottom: 72px;
     flex-wrap: wrap;
