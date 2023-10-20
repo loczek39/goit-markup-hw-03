@@ -188,6 +188,18 @@ max-width: 264px;}
     border-radius: 4px;
     gap: 24px;
 }
+.list-portfolio-buttons{ font-size: 500;
+    line-height: 1.5;
+    font-family: "Roboto";
+    display: flex;
+    justify-content: center;
+    margin-bottom: 72px;
+    
+    
+    row-gap: 48px;
+    gap: 24px;
+
+}}
 .filter-button:hover{
     color: var(--White);
     background-color: var(--OCEAN);
@@ -327,14 +339,6 @@ margin: 0px auto;}
     column-gap: 24px;
     row-gap: 48px;
     gap: 24px;}
-.portfolio-buttons{display: flex;
-gap: 24px;
-justify-content: center;
-padding: 12px 24px;}
-.portfolio-cards{column-gap: 24px;
-row-gap: 48px;
-display: flex;
-flex-wrap: wrap; }
 
 
 
