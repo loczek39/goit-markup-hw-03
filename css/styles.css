@@ -194,9 +194,6 @@ max-width: 264px;}
     display: flex;
     justify-content: center;
     margin-bottom: 72px;
-    
-    
-    row-gap: 48px;
     gap: 24px;
 
 }}
@@ -339,7 +336,16 @@ margin: 0px auto;}
     column-gap: 24px;
     row-gap: 48px;
     gap: 24px;}
-
+.list-portfolio-list{font-size: 500;
+    line-height: 1.5;
+    font-family: "Roboto";
+    display: flex;
+    
+    margin-bottom: 72px;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+    gap: 40px;}
 
 
 
