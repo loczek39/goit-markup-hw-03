@@ -260,15 +260,13 @@ color: var(--Slate);}
 }
 .nav{}
 .second-section{padding: 120px 0;}
-.lists{
+.lists.texts{
     font-size: 500;
     line-height: 1.5;
     font-family: "Roboto";
     display:flex;
-    gap: 24px;
-   
-
-}
+    gap: 24px;}
+.lists{ flex-basis: calc((100%-72px)/4);}    
 .third-section{padding-bottom: 120px;}
 
 .list-third{
