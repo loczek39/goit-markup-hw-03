@@ -229,7 +229,8 @@ color: var(--Slate);}
     line-height: 1.5;
     font-family: "Roboto";
     display: flex;
-    padding: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
     justify-content: center;
     margin-bottom: 72px;
     flex-wrap: wrap;
