@@ -131,7 +131,6 @@ max-width: 496px;}
     letter-spacing: 0.32px;
     display: flex;
     align-items: center;
-    gap: 40px;
 }
 .nav:hover{
     color: var(--OCEAN);
@@ -240,6 +239,7 @@ color: var(--Slate);}
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    gap: 40px;
 
 }
 .fourth-section{
