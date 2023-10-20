@@ -266,9 +266,9 @@ color: var(--Slate);}
     font-family: "Roboto";
     display:flex;
     gap: 24px;}
-.lists{ flex-basis: calc((100%-72px)/4);}    
-.third-section{padding-bottom: 120px;
-    flex-basis: calc((100%-72px)/4);}
+.lists{ flex-basis: calc((100%-72px)/4);}  
+.list-sec{ flex-basis: calc((100%-72px)/4);}  
+.third-section{padding-bottom: 120px;}
 
 .list-third{
     display: flex;
