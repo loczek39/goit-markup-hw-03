@@ -260,7 +260,7 @@ color: var(--Slate);}
 }
 .nav{}
 .second-section{padding: 120px 0;}
-.list-sec{
+.lists{
     font-size: 500;
     line-height: 1.5;
     font-family: "Roboto";
@@ -314,6 +314,6 @@ margin: 0px auto;}
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-.list-sec-index{ flex-basis: calc((100%-72px)/4);}
+
 
 
