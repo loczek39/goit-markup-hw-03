@@ -36,6 +36,7 @@ img{display: block;}
     text-transform: uppercase;
     color: var(--Iris);
     margin-right: 76px ;
+    pa
     
 }
 .logo:hover{color: var(--OCEAN)}
@@ -229,8 +230,6 @@ color: var(--Slate);}
     line-height: 1.5;
     font-family: "Roboto";
     display: flex;
-    padding-top: 24px;
-    padding-bottom: 24px;
     justify-content: center;
     margin-bottom: 72px;
     flex-wrap: wrap;
@@ -256,6 +255,8 @@ color: var(--Slate);}
 .header{
     border-bottom: 1px solid #e7e9fc;
     display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .nav{}
 .second-section{padding: 120px 0;}
@@ -265,10 +266,11 @@ color: var(--Slate);}
     font-family: "Roboto";
     display:flex;
     gap: 24px;
-    flex-basis: calc((100%-72px)/4);
+   
 
 }
 .third-section{padding-bottom: 120px;}
+
 .list-third{
     display: flex;
     gap: 24px;
@@ -312,5 +314,6 @@ margin: 0px auto;}
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+.list-sec-index{ flex-basis: calc((100%-72px)/4);}
 
 
